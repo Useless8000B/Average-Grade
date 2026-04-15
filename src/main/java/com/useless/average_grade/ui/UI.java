@@ -1,8 +1,8 @@
-package com.useless.ui;
+package com.useless.average_grade.ui;
 
 import java.util.Scanner;
 
-import com.useless.utils.Format;
+import com.useless.average_grade.utils.Format;
 
 public class UI {
 	private static final Scanner input = new Scanner(System.in);
